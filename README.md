@@ -1,3 +1,12 @@
+
+### Links
+
+[![JSR Score](https://jsr.io/badges/@maks11060)](https://jsr.io/@maks11060)
+
+- [JSR](https://jsr.io/@maks11060)
+- [NPM](https://www.npmjs.com/~maks11060)
+
+
 <!--
 ### Hi there 👋
 -->
